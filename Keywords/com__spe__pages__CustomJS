@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "A8FC26E086BBFEBAD50403DBEE6D3708",
+  "keywordClasses": [
+    {
+      "name": "com.spe.pages.CustomJS",
+      "keywordMethods": [
+        {
+          "name": "DeleteElement",
+          "parameters": [
+            {
+              "name": "className",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

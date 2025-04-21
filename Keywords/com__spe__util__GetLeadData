@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "DB125B66057C726B5100BEE0E78107B8",
+  "keywordClasses": [
+    {
+      "name": "com.spe.util.GetLeadData",
+      "keywordMethods": [
+        {
+          "name": "getLeadData",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

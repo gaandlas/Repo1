@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "7D31CF95B188D9393C2E33F81F7F3561",
+  "keywordClasses": [
+    {
+      "name": "com.spe.salesforce.GenerateToken",
+      "keywordMethods": [
+        {
+          "name": "getKey",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateSalesforceToken",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

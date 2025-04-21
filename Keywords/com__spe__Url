@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "4A48C62BC8612EF28D4AE4B86649A6C0",
+  "keywordClasses": [
+    {
+      "name": "com.spe.Url",
+      "keywordMethods": [
+        {
+          "name": "getBaseUrl",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

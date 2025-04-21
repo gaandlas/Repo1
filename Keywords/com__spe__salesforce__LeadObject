@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3F8102B519C5C84EEBC7FE96AD65FA07",
+  "keywordClasses": [
+    {
+      "name": "com.spe.salesforce.LeadObject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

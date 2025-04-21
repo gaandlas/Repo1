@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "38D893A87F1B9679357A7FFA6CE7B9A9",
+  "keywordClasses": [
+    {
+      "name": "com.spe.aws.Dynamodb",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

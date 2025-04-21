@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "4AFB585EBF8B01711A63C6B80F74A355",
+  "keywordClasses": [
+    {
+      "name": "com.spe.pages.Cookies",
+      "keywordMethods": [
+        {
+          "name": "GetCookieValue",
+          "parameters": [
+            {
+              "name": "key",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "9C724F33CF353EF9717B48DD333931E2",
+  "keywordClasses": [
+    {
+      "name": "com.spe.util.Dropdowns",
+      "keywordMethods": [
+        {
+          "name": "returnTextOfSelectedOption",
+          "parameters": [
+            {
+              "name": "objectPath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

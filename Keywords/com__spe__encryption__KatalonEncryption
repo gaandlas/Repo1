@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "05C23CE1D58133B9575C5F5C2D9E18B6",
+  "keywordClasses": [
+    {
+      "name": "com.spe.encryption.KatalonEncryption",
+      "keywordMethods": [
+        {
+          "name": "DecryptText",
+          "parameters": [
+            {
+              "name": "encryptedText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "EncryptText",
+          "parameters": [
+            {
+              "name": "originalText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

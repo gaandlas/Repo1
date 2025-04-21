@@ -1,0 +1,125 @@
+{
+  "keywordFileContentHash": "F6ED7D9C3B160F6166E37578F42D3928",
+  "keywordClasses": [
+    {
+      "name": "com.deque.html.axecore.ComplianceTests",
+      "keywordMethods": [
+        {
+          "name": "getAllResults",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getResultsWithTags",
+          "parameters": [
+            {
+              "name": "tags",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.List",
+                "unresolvedClassName": "List",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getResultsWithOnlyRules",
+          "parameters": [
+            {
+              "name": "rules",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.List",
+                "unresolvedClassName": "List",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getViolationsFromResults",
+          "parameters": [
+            {
+              "name": "results",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.deque.html.axecore.results.Results",
+                "unresolvedClassName": "Results",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "writeResultsToJsonFile",
+          "parameters": [
+            {
+              "name": "results",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.deque.html.axecore.results.Results",
+                "unresolvedClassName": "Results",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "reportFileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

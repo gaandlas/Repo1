@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "4EA05AF47E5FA2232CB0F9E72C7C5885",
+  "keywordClasses": [
+    {
+      "name": "com.spe.util.Parser",
+      "keywordMethods": [
+        {
+          "name": "parseTsvFile",
+          "parameters": [
+            {
+              "name": "fileLocation",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "column",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

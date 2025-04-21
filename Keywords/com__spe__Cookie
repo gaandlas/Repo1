@@ -1,0 +1,78 @@
+{
+  "keywordFileContentHash": "3068B4FD7679F9DE96D0F7CBE2565A26",
+  "keywordClasses": [
+    {
+      "name": "com.spe.Cookie",
+      "keywordMethods": [
+        {
+          "name": "getCookieValue",
+          "parameters": [
+            {
+              "name": "cookieName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "addCookieValue",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "deleteCookie",
+          "parameters": [
+            {
+              "name": "cookieName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getAllCookies",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "isCookiePresent",
+          "parameters": [
+            {
+              "name": "cookieName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
