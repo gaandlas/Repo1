@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sitemap Index - Partner Name URL Check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b190196c-68fc-407a-bae9-ed626f3c2d98</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a1b165e-2fac-4c07-a6a8-87296a704034</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://online.carlow.edu/requestion-information/'</defaultValue>
+      <description></description>
+      <id>3a1b165e-2fac-4c07-a6a8-87296a704034</id>
+      <masked>false</masked>
+      <name>RfiUrl</name>
+   </variable>
+</TestCaseEntity>

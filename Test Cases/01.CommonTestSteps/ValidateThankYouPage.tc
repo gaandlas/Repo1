@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateThankYouPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>406f1ae7-a672-4d00-91a8-6be62fb6dcb2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc3aef10-59f8-4f07-9ed6-9a5728034e5d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc3aef10-59f8-4f07-9ed6-9a5728034e5d</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+</TestCaseEntity>

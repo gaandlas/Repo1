@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RFI_10_EmailValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1968b77-31d8-4ef8-bb6f-1b2fa7186cb8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6964344a-64af-4b7c-b214-9c2fdbfe0966</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95e9feca-4e6b-4705-b91e-d5a8d4529eff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95fb676e-d44f-4146-b995-616e392a2633</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6964344a-64af-4b7c-b214-9c2fdbfe0966</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95e9feca-4e6b-4705-b91e-d5a8d4529eff</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95fb676e-d44f-4146-b995-616e392a2633</id>
+      <masked>false</masked>
+      <name>formType</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check SMS Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db862b6c-2532-433f-b8ee-c3e8cfe0d863</testCaseGuid>
+   <variable>
+      <defaultValue>'https://landing.online.ben.edu/dual-msn-mba/'</defaultValue>
+      <description></description>
+      <id>480e8757-f55c-4e4d-afaf-b84156652cdc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Benedictine University'</defaultValue>
+      <description></description>
+      <id>56793cf3-b3a0-42a0-b3a6-bba33fd98bc0</id>
+      <masked>false</masked>
+      <name>partnerName</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>bcc78dcf-88e4-4828-bfb3-b6f6351f9f9b</id>
+      <masked>false</masked>
+      <name>international</name>
+   </variable>
+</TestCaseEntity>

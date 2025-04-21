@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UTM/Last Touch Attribution</description>
+   <name>UTM - Last Touch Attribution</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9b2faf2-cff6-41dc-ae59-f2e39cce46da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56cf2195-53ad-45f2-bbfd-617cc31cd1a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f87313ec-6ba2-487c-bc03-490388609807</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1bec66ee-4c21-457a-ba45-ab80c2b79473</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d65359b6-1612-4eaa-89ef-7b7e55622ebc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>4350861</defaultValue>
+      <description>TestRails TestCase Number</description>
+      <id>56cf2195-53ad-45f2-bbfd-617cc31cd1a5</id>
+      <masked>false</masked>
+      <name>TestCase</name>
+   </variable>
+   <variable>
+      <defaultValue>'?utm_source=audience&amp;utm_medium=bannerSrcTest&amp;utm_campaign=QA&amp;uadgroup=uadgrouptest&amp;uAdCampgn=uadcampgntest&amp;utm_term=urefkeywordtest&amp;utm_content=urefmediatypetest&amp;gclid=gclidtest&amp;event=eventTest0&amp;promotion=promoTest1&amp;partnership=partnerTest2&amp;ae=ae3&amp;wbraid=wtest2&amp;gbraid=gtest2&amp;interestTimeframe=Timeframe%202023&amp;leadSource=leadSourceTest&amp;fbclid=IwAR2yrwB3SRzvNAffIR7l5bs3BRzqewoZzm_qK0QcOhRhH9EYKeCA2tuM704'</defaultValue>
+      <description></description>
+      <id>f87313ec-6ba2-487c-bc03-490388609807</id>
+      <masked>false</masked>
+      <name>utmStringOld</name>
+   </variable>
+   <variable>
+      <defaultValue>'?utm_source=fb&amp;utm_medium=lastTouchTest&amp;utm_campaign=lastTouchTest&amp;uadgroup=lastTouchTest&amp;uAdCampgn=lastTouchTest&amp;utm_term=lastTouchTest&amp;utm_content=lastTouchTest&amp;gclid=lastTouchTest&amp;event=lastTouchTest&amp;promotion=lastTouchTest&amp;partnership=lastTouchTest&amp;ae=LTT&amp;wbraid=lastTouchTest&amp;gbraid=lastTouchTest&amp;interestTimeframe=lastTouchTest&amp;leadSource=lastTouchTest&amp;fbclid=IwAR2yrwB3SRzvNAffIR7l5bs3BRzqewoZzm_qK0QcOhRhH9EYKeCA2tuM704'</defaultValue>
+      <description></description>
+      <id>1bec66ee-4c21-457a-ba45-ab80c2b79473</id>
+      <masked>false</masked>
+      <name>utmStringNew</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://online.calvin.edu/'</defaultValue>
+      <description></description>
+      <id>d65359b6-1612-4eaa-89ef-7b7e55622ebc</id>
+      <masked>false</masked>
+      <name>pageUrl</name>
+   </variable>
+</TestCaseEntity>

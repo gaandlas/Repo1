@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_UWAC_03_CurrentStatus-ParentGuardion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff449cf1-8927-42ab-ade5-513ae81d2e07</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cff6b963-346c-4967-a142-853691c0f5ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90882a8e-08b5-4b38-8914-29725cd1a0ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>19a0b3b7-0ff7-48ca-91ad-82bbc54983e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cff6b963-346c-4967-a142-853691c0f5ed</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>90882a8e-08b5-4b38-8914-29725cd1a0ce</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19a0b3b7-0ff7-48ca-91ad-82bbc54983e6</id>
+      <masked>false</masked>
+      <name>isAffiliate</name>
+   </variable>
+</TestCaseEntity>

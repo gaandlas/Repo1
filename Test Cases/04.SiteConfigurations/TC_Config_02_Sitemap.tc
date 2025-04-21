@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Config_02_Sitemap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c119c7d4-1430-4365-b1df-2dedfafcb87e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>542450a0-3660-4060-9733-c0ff799ba585</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>542450a0-3660-4060-9733-c0ff799ba585</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

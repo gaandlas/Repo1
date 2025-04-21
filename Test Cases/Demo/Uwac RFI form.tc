@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Uwac RFI form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f27c4e12-9971-4a8f-a1da-e5a5f1c523a1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27e965f8-fe18-4586-a115-7790f8719b2a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b03a28a-c229-4602-b6e2-704b79cceff1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'?utm_source=audience&amp;utm_medium=banner&amp;utm_campaign=QA&amp;uadgroup=uadgrouptest&amp;uAdCampgn=uadcampgntest&amp;utm_term=urefkeywordtest&amp;utm_content=urefmediatypetest&amp;gclid=gclidtest&amp;event=eventTest0&amp;promotion=promoTest1&amp;partnership=partnerTest2&amp;ae=lb1&amp;wbraid=wtest1&amp;gbraid=gtest2'</defaultValue>
+      <description></description>
+      <id>27e965f8-fe18-4586-a115-7790f8719b2a</id>
+      <masked>false</masked>
+      <name>utm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b03a28a-c229-4602-b6e2-704b79cceff1</id>
+      <masked>false</masked>
+      <name>RfiUrl</name>
+   </variable>
+</TestCaseEntity>

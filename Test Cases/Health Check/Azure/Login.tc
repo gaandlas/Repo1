@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73128396-0277-4ce1-9a89-db9d817d3075</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40d774b7-bdde-40a0-834d-0a19e1cf90e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://online.baypath.edu/wp-admin'</defaultValue>
+      <description></description>
+      <id>40d774b7-bdde-40a0-834d-0a19e1cf90e7</id>
+      <masked>false</masked>
+      <name>loginPage</name>
+   </variable>
+</TestCaseEntity>

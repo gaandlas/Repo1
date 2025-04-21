@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Smart RFI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0801e03a-8aca-452b-b3fb-4b697df25f1b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94c3eaf5-2216-4e92-afb3-7506684eefb6</id>
+      <masked>false</masked>
+      <name>subUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9812cfc3-27b0-48b3-803d-897c6f808b0f</id>
+      <masked>false</masked>
+      <name>uuid</name>
+   </variable>
+</TestCaseEntity>

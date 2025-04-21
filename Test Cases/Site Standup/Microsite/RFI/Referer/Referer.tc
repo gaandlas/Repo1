@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Referer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b518e9e9-fd64-46d3-883a-12f27690ad39</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cea2dbcd-88ac-4a84-9982-6b9a95aab7b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5855b5db-b886-48bc-b658-47e9036eaa34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1a0f05b-8e94-4f88-afc3-d2320648ea5d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cea2dbcd-88ac-4a84-9982-6b9a95aab7b4</id>
+      <masked>false</masked>
+      <name>startingSite</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5855b5db-b886-48bc-b658-47e9036eaa34</id>
+      <masked>false</masked>
+      <name>destinationSite</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1a0f05b-8e94-4f88-afc3-d2320648ea5d</id>
+      <masked>false</masked>
+      <name>expectedValue</name>
+   </variable>
+</TestCaseEntity>

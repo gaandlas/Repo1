@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Chat_01_StartChat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7869e39-8fde-4fd1-a1aa-1cb55c1d65df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be8ef145-eea5-469f-87d0-45cac12ffd0a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14b92ab2-6c3c-42a7-8804-d130ec5eb48d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a339623a-4cb8-4e68-97b7-9fc8cc093015</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be8ef145-eea5-469f-87d0-45cac12ffd0a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14b92ab2-6c3c-42a7-8804-d130ec5eb48d</id>
+      <masked>false</masked>
+      <name>partnerName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a339623a-4cb8-4e68-97b7-9fc8cc093015</id>
+      <masked>false</masked>
+      <name>tealiumProfile</name>
+   </variable>
+</TestCaseEntity>

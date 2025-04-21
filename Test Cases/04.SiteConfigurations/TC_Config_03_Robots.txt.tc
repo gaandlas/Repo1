@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Config_03_Robots.txt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3bc711da-cb5c-4430-8c04-24e3ab5b81e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c80f0b3c-4a61-4fa4-af5d-7af9a3b3b438</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c80f0b3c-4a61-4fa4-af5d-7af9a3b3b438</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

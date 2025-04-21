@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Multidev Tux RFI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd1e2949-1619-4d73-8cde-56dbdf7bb78d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6cef3820-fad0-4f11-97ea-d980de93f54e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6cdad5c9-ce87-476b-bfb6-58328ad8894e</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

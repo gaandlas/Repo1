@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Uses the Data Files/Leads/Test Leads to query Salesforce for correct data. 
+Afterwards, it updates the Validated column with True and posts and, if there are any issues, posts them in the Results column</description>
+   <name>Validate Csv File</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00fa5af0-9197-4eac-8c6b-743f9d7c564c</testCaseGuid>
+</TestCaseEntity>

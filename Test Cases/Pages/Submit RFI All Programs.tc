@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit RFI All Programs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab8a6d28-5501-449c-b79a-99b046c26c48</testCaseGuid>
+   <variable>
+      <defaultValue>'Robtest'</defaultValue>
+      <description></description>
+      <id>04948ad8-3fb6-4307-932c-e3df5b21b3d5</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+</TestCaseEntity>

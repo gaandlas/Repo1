@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_UWAC_01_CurrentStatus-HighSchoolStudent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02720798-233c-4f7f-aee3-3c35e18269b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53f9281a-0f73-44ba-8ca1-3e2b766c4a86</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ddad623c-812f-41b0-8fe3-f205bced2976</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31a6ca1c-2c9a-44b1-b180-a1daac379907</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>53f9281a-0f73-44ba-8ca1-3e2b766c4a86</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddad623c-812f-41b0-8fe3-f205bced2976</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31a6ca1c-2c9a-44b1-b180-a1daac379907</id>
+      <masked>false</masked>
+      <name>isAffiliate</name>
+   </variable>
+</TestCaseEntity>

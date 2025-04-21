@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This will navigate to the site with a UTM string attached. It then compares the values to the cookie set. If they are equal, it passes. If they do not match, it marks as failure.</description>
+   <name>Compare UTMs with Cookie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ba1136f-4796-484b-92d3-75d658728683</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bda95fe-0c7a-4cdf-b962-5de98d740846</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>410ec144-a429-41f9-850b-105adf50d273</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[('utm_source') : '', ('utm_medium') : '', ('utm_campaign') : '', ('uadgroup') : '', ('uadcampgn') : '', ('utm_term') : '', ('utm_content') : '', ('gclid') : '', ('event') : '', ('promotion') : '', ('partnership') : '', ('ae') : '', ('wbraid') : '', ('gbraid') : '']</defaultValue>
+      <description></description>
+      <id>0bda95fe-0c7a-4cdf-b962-5de98d740846</id>
+      <masked>false</masked>
+      <name>cookieMap</name>
+   </variable>
+   <variable>
+      <defaultValue>[('utm_source') : '', ('utm_medium') : '', ('utm_campaign') : '', ('uadgroup') : '', ('uadcampgn') : '', ('utm_term') : '', ('utm_content') : '', ('gclid') : '', ('event') : '', ('promotion') : '', ('partnership') : '', ('ae') : '', ('wbraid') : '', ('gbraid') : '']</defaultValue>
+      <description></description>
+      <id>410ec144-a429-41f9-850b-105adf50d273</id>
+      <masked>false</masked>
+      <name>stringMap</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Goes to site with utm parameters 
+- Goes to another page in side to verify parameters still present 
+- Reloads original page with new parameters to verify they're overwriting correctly</description>
+   <name>Utm Bleed Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>067586e5-6d74-4bea-88ec-57e5e0a2e223</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Go to each url in &quot;Data Files/Optly/Urls.csv&quot; and verify the form object is visible</description>
+   <name>VerifyForm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ffd6dd94-6ea2-4e0a-a973-387be121ca77</testCaseGuid>
+</TestCaseEntity>

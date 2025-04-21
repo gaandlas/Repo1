@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tealium and utag - Direct TY Page - Spreadsheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9286a5a-fdec-42b7-9273-80055e180ac9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d856b406-397c-4e7e-b270-ea3d804754ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7aab8e4d-c9ba-4e1a-bcaf-a790b2e5879a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68717672-d82d-4e74-88fa-854979530aab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://online.calvin.edu/request-information/'</defaultValue>
+      <description></description>
+      <id>d856b406-397c-4e7e-b270-ea3d804754ed</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Microsite'</defaultValue>
+      <description></description>
+      <id>7aab8e4d-c9ba-4e1a-bcaf-a790b2e5879a</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+   <variable>
+      <defaultValue>'web-cal'</defaultValue>
+      <description></description>
+      <id>68717672-d82d-4e74-88fa-854979530aab</id>
+      <masked>false</masked>
+      <name>tealiumName</name>
+   </variable>
+</TestCaseEntity>

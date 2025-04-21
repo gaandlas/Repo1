@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Robots.txt</name>
+   <tag>health, robots</tag>
+   <comment></comment>
+   <testCaseGuid>f68cfa1d-e412-4eac-9699-c8c930d658f3</testCaseGuid>
+</TestCaseEntity>

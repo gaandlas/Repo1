@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_UWAC_02_CurrentStatus-TransferStudent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19fce613-0d68-496e-9d9c-856833c51eb4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bae4b75-7923-400f-9ffa-73ea4063aa67</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>266f1da9-356a-4b9f-b143-f63eab861d20</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c415451c-6ee4-4d4e-a705-7ffb13c62348</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bae4b75-7923-400f-9ffa-73ea4063aa67</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>266f1da9-356a-4b9f-b143-f63eab861d20</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c415451c-6ee4-4d4e-a705-7ffb13c62348</id>
+      <masked>false</masked>
+      <name>isAffiliate</name>
+   </variable>
+</TestCaseEntity>

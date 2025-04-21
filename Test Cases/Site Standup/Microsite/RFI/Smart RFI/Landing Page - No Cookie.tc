@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Landing Page - No Cookie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>638a84f6-4bf5-4c06-a70a-6f56dd044f47</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0cecec4f-64e9-4582-bd70-f7a17a7f73ad</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0cecec4f-64e9-4582-bd70-f7a17a7f73ad</id>
+      <masked>false</masked>
+      <name>landingPageRfi</name>
+   </variable>
+</TestCaseEntity>

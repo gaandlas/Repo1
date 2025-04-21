@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_verify_wp_optimization</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b43c23be-c83d-4e41-96a0-6e3fab9774ce</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eabe43b6-ffbd-4d1c-babf-014844ec98f5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07ff970a-d892-4561-984e-3c49851d6343</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eabe43b6-ffbd-4d1c-babf-014844ec98f5</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07ff970a-d892-4561-984e-3c49851d6343</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+</TestCaseEntity>

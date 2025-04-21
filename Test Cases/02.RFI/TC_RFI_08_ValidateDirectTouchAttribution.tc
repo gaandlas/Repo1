@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_RFI_08_ValidateDirectTouchAttribution</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a67ba7f-b6fe-48fe-9ed6-2540953f438e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c70519ad-c4a3-4130-a542-8107d5432782</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>443b30cf-fdbd-499b-b248-0f6df36efd3d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c70519ad-c4a3-4130-a542-8107d5432782</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>443b30cf-fdbd-499b-b248-0f6df36efd3d</id>
+      <masked>false</masked>
+      <name>siteType</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaunchSite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47bdcc3b-ded5-4c3a-9646-0d9327408f13</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ad64e4b-acb4-4d50-a687-8fa82b77aee0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ad64e4b-acb4-4d50-a687-8fa82b77aee0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Chatbotwindow-open</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b5ae646-5b11-4017-b395-0659d4cb4707</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>759b258f-75cb-4d63-ab4e-672b600c5a02</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51112532-cf2b-41f7-bad6-5f7bb8047775</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>759b258f-75cb-4d63-ab4e-672b600c5a02</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>51112532-cf2b-41f7-bad6-5f7bb8047775</id>
+      <masked>false</masked>
+      <name>partner</name>
+   </variable>
+</TestCaseEntity>

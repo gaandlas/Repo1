@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Auto RFI - General Submission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcfda943-b1d9-42a2-9a45-d607cc221e71</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c6277e8-544b-449a-aad7-e6bac639637e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25038564-6765-46b2-b38c-065fbdbfeec7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3b3b81c-a81c-4a04-b97a-341a6ab15a6b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c6277e8-544b-449a-aad7-e6bac639637e</id>
+      <masked>false</masked>
+      <name>utm</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://online.calvin.edu/request-information/'</defaultValue>
+      <description></description>
+      <id>25038564-6765-46b2-b38c-065fbdbfeec7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'?utm_source=testing&amp;utm_medium=bannerSrcTest&amp;utm_campaign=QA&amp;uadgroup=uadgrouptest&amp;uAdCampgn=uadcampgntest&amp;utm_term=urefkeywordtest&amp;utm_content=urefmediatypetest&amp;gclid=gclidtest&amp;lpvariant=lpvarianttest&amp;event=eventTest0&amp;promotion=promoTest1&amp;partnership=partnerTest2&amp;ae=aeI'</defaultValue>
+      <description></description>
+      <id>b3b3b81c-a81c-4a04-b97a-341a6ab15a6b</id>
+      <masked>false</masked>
+      <name>utmAff</name>
+   </variable>
+</TestCaseEntity>
