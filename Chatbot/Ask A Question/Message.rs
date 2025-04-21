@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Message</name>
+   <tag></tag>
+   <elementGuidId>43d57e96-8df8-4216-9105-e51863cf50f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uiInput.uiInputText.uiInput--default.uiInput--input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[contains(@class,'Message__c slds-style-inputtext input')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34e7117f-5f19-43a6-9e34-d39b85b9f156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>271:0</value>
+      <webElementGuid>bef27197-161b-49c5-82d2-cdcbfbca830e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uiInput uiInputText uiInput--default uiInput--input</value>
+      <webElementGuid>7500c2c1-fc21-417b-8ee0-46c862395854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-class</name>
+      <type>Main</type>
+      <value>uiInput uiInputText uiInput--default uiInput--input</value>
+      <webElementGuid>8d3b7b0f-0254-4d93-9c70-1e64eb24e90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Message*</value>
+      <webElementGuid>65805556-e80c-4688-9e63-c4240f2e63e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;modalContainer sidebarMaximized layout-docked embeddedServiceSidebar&quot;]/div[@class=&quot;dockableContainer showDockableContainer&quot;]/div[@class=&quot;sidebarBody&quot;]/div[@class=&quot;activeFeature hideWhileLoading&quot;]/div[@class=&quot;featureBody embeddedServiceSidebarFeature embeddedServiceLiveAgentSidebarFeature&quot;]/div[@class=&quot;stateBody embeddedServiceSidebarState&quot;]/div[@class=&quot;offlineSupportUI embeddedServiceLiveAgentStateOfflineSupportDefaultUI&quot;]/div[@class=&quot;formContent embeddedServiceSidebarForm&quot;]/div[@class=&quot;fieldList&quot;]/div[@class=&quot;inputText embeddedServiceSidebarFormField&quot;]/div[@class=&quot;uiInput uiInputText uiInput--default uiInput--input&quot;]</value>
+      <webElementGuid>3a8a5b29-e697-41a4-960c-dc1b2b64e801</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='container']/div[5]/div/div/div[2]/div/div/div/div/div[3]/div[2]/div</value>
+      <webElementGuid>6962d06c-1952-487b-b703-8584eeedc790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[2]</value>
+      <webElementGuid>fb0ba647-855f-4fde-87b2-a4d986294943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[2]</value>
+      <webElementGuid>a8768adc-43da-45c3-bf40-8667d5f326c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>de88ec36-3e0a-453f-a441-fd0a82522dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Message*' or . = 'Message*')]</value>
+      <webElementGuid>7d03d204-7d25-444b-bf7c-3b27a9445943</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

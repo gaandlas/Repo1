@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AskAQuestion</name>
+   <tag></tag>
+   <elementGuidId>21b62a03-d62a-4e08-9358-9d67dce8a49a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='helpButtonSpan']/span[2] </value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>735605d6-1d86-45e9-a392-674bfe484dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message</value>
+      <webElementGuid>41cac43b-2892-42a2-8bb7-363dccf71728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chat Now</value>
+      <webElementGuid>50ff0a74-2172-4247-904b-e60bbfdaedf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;helpButtonSpan&quot;)/span[@class=&quot;message&quot;]</value>
+      <webElementGuid>5b594218-8ff5-4d90-b180-8304f2981c82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='helpButtonSpan']/span[2]</value>
+      <webElementGuid>56f25421-9985-4151-8f57-453c591f677f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live chat:'])[1]/following::span[1]</value>
+      <webElementGuid>36184992-e197-4f94-aad3-b0e5c37f531a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'helpButtonSpan', '&quot;', ')/span[@class=', '&quot;', 'message', '&quot;', ']')])[1]/following::span[4]</value>
+      <webElementGuid>02021341-1623-4945-8aa9-39a4a5377134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chat Now']/parent::*</value>
+      <webElementGuid>61119c00-7c95-458c-ab78-6c89b0a2790f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span[2]</value>
+      <webElementGuid>1785afff-ea9a-4dbc-8608-95f8d914faa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
