@@ -1,0 +1,7 @@
+site    post_id meta_key    meta_value  url post_type   post_status
+lp-lau  788 calc_max_transfer_credits        http://live-lp-lau.edu.help/?p=788     degree  publish
+lp-lau  789 calc_max_transfer_credits        http://live-lp-lau.edu.help/?p=789     degree  publish
+web-uky 659 calc_max_transfer_credits        http://live-web-uky.edu.help/?p=659    degree  publish
+web-uky 1019    calc_max_transfer_credits        http://live-web-uky.edu.help/?p=1019   degree  publish
+web-uky 1022    calc_max_transfer_credits        http://live-web-uky.edu.help/?p=1022   degree  publish
+web-uky 1136    calc_max_transfer_credits        http://live-web-uky.edu.help/?p=1136   degree  publish
