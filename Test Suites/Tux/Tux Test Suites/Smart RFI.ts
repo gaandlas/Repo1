@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Smart RFI</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>3</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ccf3bee3-8e38-41ab-a3d9-785fb55b03e5</testSuiteGuid>
+   <testCaseLink>
+      <guid>724d42fc-410e-4e67-b5e0-283cc370536a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Site Standup/Microsite/RFI/Smart RFI/Landing Page - With Cookie</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>463771c9-e85c-4be5-b3ec-be2ba4255b47</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Tux Release/Tux Multidev/Lp - tuxStag</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>463771c9-e85c-4be5-b3ec-be2ba4255b47</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MURL</value>
+         <variableId>60630d60-1518-4c20-843d-e79a449a34bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>463771c9-e85c-4be5-b3ec-be2ba4255b47</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SingleProgramURL</value>
+         <variableId>d2dffe00-ce53-45d7-8ce1-812a2c2d0752</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c1572a22-6d0b-4ba3-b82e-9caaa9f8592f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Site Standup/Microsite/RFI/Smart RFI/Microsite</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f6d61f58-5274-4a9c-8b5c-c6db805b9d67</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>5</value>
+         </iterationEntity>
+         <testDataId>Data Files/Tux Release/Tux Multidev/Micro -tuxStag</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f6d61f58-5274-4a9c-8b5c-c6db805b9d67</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SingleProgramURL</value>
+         <variableId>c0e7036d-bc00-4509-8595-c1abd12a8c32</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f6d61f58-5274-4a9c-8b5c-c6db805b9d67</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MultiRFI</value>
+         <variableId>fcd17a9e-9208-4641-bd17-ee967b60c0a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f6d61f58-5274-4a9c-8b5c-c6db805b9d67</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UUID</value>
+         <variableId>f8dd8509-6c57-4663-9e94-def91a405907</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f6d61f58-5274-4a9c-8b5c-c6db805b9d67</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MultiURL</value>
+         <variableId>5f5e5e29-ce32-4e98-9a94-2e84b71f2c63</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

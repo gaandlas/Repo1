@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Last Touch Attribution</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>1</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f4a117c6-da6e-4576-9123-f61999ac16ed</testSuiteGuid>
+   <testCaseLink>
+      <guid>e44e5c74-fb9d-4128-87b4-f6c3e2c1d63e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Site Standup/Microsite/RFI/UTM/UTM - Last Touch Attribution</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7db56c9b-d747-4e8f-8de3-b7d52ab4c50e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Freya Release/FR Prod - Microsite-LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>56cf2195-53ad-45f2-bbfd-617cc31cd1a5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f87313ec-6ba2-487c-bc03-490388609807</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1bec66ee-4c21-457a-ba45-ab80c2b79473</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7db56c9b-d747-4e8f-8de3-b7d52ab4c50e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RfiUrl</value>
+         <variableId>d65359b6-1612-4eaa-89ef-7b7e55622ebc</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

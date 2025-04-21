@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_UWAC</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>492e2dcc-fc51-4080-9547-4c66423c9899</testSuiteGuid>
+   <testCaseLink>
+      <guid>3bdc7bd1-aa85-422c-8728-1c624a0b7644</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/06.UWAC-RFIForms/TC_UWAC_03_CurrentStatus-ParentGuardion</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e5daa9ba-cbfd-4430-9aed-a2ecd1539675</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>e5daa9ba-cbfd-4430-9aed-a2ecd1539675</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>cff6b963-346c-4967-a142-853691c0f5ed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e5daa9ba-cbfd-4430-9aed-a2ecd1539675</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>90882a8e-08b5-4b38-8914-29725cd1a0ce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e5daa9ba-cbfd-4430-9aed-a2ecd1539675</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>isAffliate</value>
+         <variableId>19a0b3b7-0ff7-48ca-91ad-82bbc54983e6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

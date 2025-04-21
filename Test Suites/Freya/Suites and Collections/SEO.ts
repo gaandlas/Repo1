@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SEO</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>2</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>892d6512-137c-4a88-8c4b-b4e862024f0e</testSuiteGuid>
+   <testCaseLink>
+      <guid>4eca17f9-dcad-44ab-9acf-aff55790d0d9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/04.SiteConfigurations/TC_Config_01_SEO</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>69099b05-49ea-4881-a3ce-5bc99bdc45c1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Freya Release/FR Prod - All Sites</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>69099b05-49ea-4881-a3ce-5bc99bdc45c1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RfiUrl</value>
+         <variableId>6bc94772-d912-49fb-b91b-af0df6b75c24</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69099b05-49ea-4881-a3ce-5bc99bdc45c1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>type</value>
+         <variableId>26b560fa-a051-4c0a-a93d-d932001a4800</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>wp_optimization_suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>15f946e3-f01b-433b-a7ae-742694c8190c</testSuiteGuid>
+   <testCaseLink>
+      <guid>3a0fe770-7e91-4ff5-a0af-56ea1fb511b0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/04.SiteConfigurations/TC_verify_wp_optimization</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8457cf68-04e6-448b-a271-298d486f1e31</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/wp_optimization/sites</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8457cf68-04e6-448b-a271-298d486f1e31</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>eabe43b6-ffbd-4d1c-babf-014844ec98f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>07ff970a-d892-4561-984e-3c49851d6343</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

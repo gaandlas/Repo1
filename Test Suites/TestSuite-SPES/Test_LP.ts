@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_LP</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f1a31ba0-903f-477c-882a-0f3de65f33a3</testSuiteGuid>
+   <testCaseLink>
+      <guid>5d073ab2-4300-4e72-b6f5-f718d891f862</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/04.SiteConfigurations/TC_verify_wp_optimization</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>edf90036-6c0e-42b2-bc1d-23c951faf903</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>edf90036-6c0e-42b2-bc1d-23c951faf903</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>eabe43b6-ffbd-4d1c-babf-014844ec98f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>edf90036-6c0e-42b2-bc1d-23c951faf903</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>07ff970a-d892-4561-984e-3c49851d6343</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>881a5e49-a329-4a7b-bc31-2ebc9577c89a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02.RFI/TC_RFI_04_ValidateSmartRFI-ProgrammaticLP</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cbf4065b-5bf3-4abf-80ff-e2834679f739</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>cbf4065b-5bf3-4abf-80ff-e2834679f739</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>c0bdf9a7-fc3e-4d0a-9276-448a9fb170a9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cbf4065b-5bf3-4abf-80ff-e2834679f739</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>0452f3c6-b908-4352-970c-b35b1151c8df</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cbf4065b-5bf3-4abf-80ff-e2834679f739</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Form Type</value>
+         <variableId>72d57624-6507-475c-8f3d-e86ce4c25cec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cbf4065b-5bf3-4abf-80ff-e2834679f739</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tealium Profile</value>
+         <variableId>c6f56c46-8993-4193-8869-66f2812a9b3b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cbf4065b-5bf3-4abf-80ff-e2834679f739</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SingleProgramURL</value>
+         <variableId>76428662-d442-4aa0-a1bc-d0b92945a369</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>648191ff-7444-4903-a590-c6c8fe7a0446</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/04.SiteConfigurations/TC_Config_01_SEO</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>36c6dbac-abbd-4b31-95f4-8eba68506e5f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>36c6dbac-abbd-4b31-95f4-8eba68506e5f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>6bc94772-d912-49fb-b91b-af0df6b75c24</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>36c6dbac-abbd-4b31-95f4-8eba68506e5f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>26b560fa-a051-4c0a-a93d-d932001a4800</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>00f3d8a3-9760-48d1-b0de-72d61bc81c27</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/04.SiteConfigurations/TC_Config_02_Sitemap</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ede613f4-c800-4ea7-bbc4-9294c2d1814a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ede613f4-c800-4ea7-bbc4-9294c2d1814a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>542450a0-3660-4060-9733-c0ff799ba585</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>49926b14-22e5-445d-9eb7-2bcdb7505527</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/03.Tealium/TC_Tealium_01_ValidateTealiumProfile_LP</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4df85563-61dc-4f87-b2c5-220699630091</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4df85563-61dc-4f87-b2c5-220699630091</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>8a21f023-85fe-4aff-ad86-a08a71c31d93</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4df85563-61dc-4f87-b2c5-220699630091</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>c0b3579b-ab7e-4773-a48e-cc695fc25dd4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4df85563-61dc-4f87-b2c5-220699630091</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tealium Profile</value>
+         <variableId>ad1d5db6-f80a-4f42-9235-71f9c297f814</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4df85563-61dc-4f87-b2c5-220699630091</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Form Type</value>
+         <variableId>8d94e283-1f2a-4165-bcb0-6d5fb0625fbe</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3c2f8ff7-e671-45ea-8c8b-f771ecea7c22</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02.RFI/TC_RFI_06_SubmitRFIFromAffiliateForms</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>dff8c65a-3567-4d32-a0b2-9c945ec79663</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>dff8c65a-3567-4d32-a0b2-9c945ec79663</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>53aac89c-86b7-4216-88a6-3c1f623e710f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dff8c65a-3567-4d32-a0b2-9c945ec79663</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>45ff0d31-e935-49fd-90e4-5a51533f0004</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dff8c65a-3567-4d32-a0b2-9c945ec79663</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tealium Profile</value>
+         <variableId>07756bf6-2dd5-4b88-9fcf-9bb794bfd10f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>dff8c65a-3567-4d32-a0b2-9c945ec79663</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Form Type</value>
+         <variableId>1487dab8-c2d9-4d93-983d-db53459df41f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0fec56b7-1a2d-465c-8a05-d93e51177c25</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/02.RFI/TC_RFI_02_SubmitRFIwithUTMString</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0a33c4bf-cdea-4165-9db2-8ed9bb474643</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataForConsolidatedTest/test_data_LP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0a33c4bf-cdea-4165-9db2-8ed9bb474643</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>ea15f3ff-3389-44c6-8cd1-5ecc060f58b1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0a33c4bf-cdea-4165-9db2-8ed9bb474643</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>f8d6e892-12e1-47ab-968a-fd0861d9e616</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0a33c4bf-cdea-4165-9db2-8ed9bb474643</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tealium Profile</value>
+         <variableId>135fca50-d0c9-4751-ad0d-6c532d969a7e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0a33c4bf-cdea-4165-9db2-8ed9bb474643</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Form Type</value>
+         <variableId>92d748ed-9d21-4946-b63f-00539fa5477e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

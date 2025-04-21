@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SEO</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>3</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b1ee54d2-5ed9-4022-a9c2-75268a7a1311</testSuiteGuid>
+   <testCaseLink>
+      <guid>43f718cb-65a0-4309-8d4a-077d036dc035</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/04.SiteConfigurations/TC_Config_01_SEO</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5493f9bd-dc7f-4ede-b68e-c950808def01</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Tux Release/Prod Tux/LP - tuxProd</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5493f9bd-dc7f-4ede-b68e-c950808def01</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RURL</value>
+         <variableId>6bc94772-d912-49fb-b91b-af0df6b75c24</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5493f9bd-dc7f-4ede-b68e-c950808def01</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SiteType</value>
+         <variableId>26b560fa-a051-4c0a-a93d-d932001a4800</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
